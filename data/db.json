@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st post",
+      "datetime": "May 20,2002, 11:20:45",
+      "body": "Made a video about tesla Q1 result"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd post",
+      "datetime": "May 20,2002, 11:20:45",
+      "body": "Made a video about tesla Q2 result"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd post",
+      "datetime": "May 20,2002, 11:20:45",
+      "body": "Made a video about tesla Q3 result"
+    },
+    {
+      "id":4,
+      "title": "My 4 th post",
+      "datetime": "May 20,2002, 11:20:45",
+      "body": "Made a video about tesla Q4 result"
+    },
+    {
+      "id": 5,
+      "title": "suba",
+      "datetime": "April 26,2024 9:35:07 PM",
+      "body": "nanthana"
+    }
+  ]
+}
